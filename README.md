@@ -23,5 +23,5 @@ I'm a front-end web developer passionate about creating beautiful and functional
 
 ### Microsoft Technology Associate:
 <p align="left">
-<a href="https://www.credly.com/badges/b526acee-53bd-45a8-b043-915facd221b2/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/267a8b92-df48-41f1-9473-a0dae752310e/ITS-Badges_Software-Development_1200px.png" width="50" height="50" alt="Software Development"/>&nbsp<a href="https://www.credly.com/badges/71be7614-112d-44c1-9892-7f292d63cdeb/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/6713c2e4-0562-4a4f-ad1b-27a0069491d8/ITS-Badges_Networking_1200px.png" width="50" height="50" alt="Networking"/>
+<a href="https://www.credly.com/badges/b526acee-53bd-45a8-b043-915facd221b2/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/267a8b92-df48-41f1-9473-a0dae752310e/ITS-Badges_Software-Development_1200px.png" width="50" height="50" alt="Software Development"/></a>&nbsp<a href="https://www.credly.com/badges/71be7614-112d-44c1-9892-7f292d63cdeb/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/6713c2e4-0562-4a4f-ad1b-27a0069491d8/ITS-Badges_Networking_1200px.png" width="50" height="50" alt="Networking"/>
 </p>
